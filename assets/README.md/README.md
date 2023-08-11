@@ -14,4 +14,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-Link to Website: https://mcrmickben45.github.io/horiseon-homework-first-output/
+Link to Live Website: https://mcrmickben45.github.io/horiseon-homework-first-output/
+
+Link to GitHub Repository: https://github.com/mcrmickben45/horiseon-homework-first-output
