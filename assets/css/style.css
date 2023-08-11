@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.banner {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -102,7 +102,7 @@ p {
     max-width: 150px;
 }
 
-.website-paragraph-content {
+.website-homepage-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -111,11 +111,11 @@ p {
     color: #ffffff;
 }
 
-.website-paragraph-content img {
+.website-homepage-content img {
     max-height: 200px;
 }
 
-.website-paragraph-content h2 {
+.website-homepage-content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
