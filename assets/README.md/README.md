@@ -14,6 +14,8 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+For this assignment, we were asked to revise existing code for the website, Horiseon, so that the code would be more accessible and recognizable to search engines, like Google. I was able to revise the code so that the CSS was condensed and less redundant in its coding. Additionally, I made the title section more descriptive, added semantic elements to the structure of the body, and added accessible alt attributes to images without changing the cosmetic view of the site.
+
 Link to Live Website: https://mcrmickben45.github.io/horiseon-homework-first-output/
 
 Link to GitHub Repository: https://github.com/mcrmickben45/horiseon-homework-first-output
