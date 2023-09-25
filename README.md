@@ -32,9 +32,9 @@ This Horiseon code refractor was created by Ben McCormick using the starter code
 ## Website
 https://mcrmickben45.github.io/code-refractor/
 
-![horiseon-1]
-![horiseon-2]
-![horiseon-3]
+![horiseon-1] (assets/README.md/horiseon-1.png)
+![horiseon-2] (assets/README.md/horiseon-2.png)
+![horiseon-3] (assets/README.md/horiseon-3.png)
 
 ## License
 None
